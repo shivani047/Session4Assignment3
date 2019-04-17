@@ -1,0 +1,13 @@
+#Get states names with ‘w’.
+> 
+> states[grep("w",states)]
+[1] "Delaware"      "Hawaii"        "Iowa"          "New Hampshire" "New Jersey"   
+[6] "New Mexico"    "New York"     
+> 
+> 
+> 
+> #Get states names with ‘W’.
+> 
+> states[grep("W",states)]
+[1] "Washington"    "West Virginia" "Wisconsin"     "Wyoming"      
+> 
